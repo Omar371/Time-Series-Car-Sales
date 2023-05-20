@@ -1,4 +1,4 @@
-# A-Comprehensive-Multi-Stage-NIDS-Utilizing-GAN-For-Data-Balancing
+# Time Series Forecasting for Car Sales in Norway
 
 ECE9603/9063: Data Analytics Foundations
 

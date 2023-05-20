@@ -1,6 +1,5 @@
 # Time Series Forecasting for Car Sales in Norway
 
-ECE9603/9063: Data Analytics Foundations
 
 Abstract—The importance of cars and automobiles evolves continuously as the economy grows and job
 opportunities increase. Cars provide more freedom for mobility and significantly decrease travel

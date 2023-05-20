@@ -20,7 +20,7 @@ New Car Sales in Norway, Monthly car sales for 2007-2017 by make and most popula
 * Publicly available at: https://www.kaggle.com/datasets/dmi3kno/newcarsalesnorway 
 
 ## Code
-* [Time-Series-Forecasting-Code.ipynb.ipynb](https://github.com/Omar371/Time-Series-Car-Sales/blob/main/Time-Series-Forecasting-Code.ipynb): code for processing, analyzing initial data and training SARIMA, SVG, and XGboost models
+* [Time-Series-Forecasting-Code.ipynb](https://github.com/Omar371/Time-Series-Car-Sales/blob/master/Time-Series-Forecasting-Code.ipynb): code for processing, analyzing initial data and training SARIMA, SVG, and XGboost models
 
 ### Machine Learning Algorithms 
 * Seasonal Autoregressive Integrated Moving Average (SARIMA)
